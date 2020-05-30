@@ -1,2 +1,4 @@
 # hellow-world--
-by python 
+by python
+ now  used this :
+ print("hello  world !")
